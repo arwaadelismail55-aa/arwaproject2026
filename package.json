@@ -8,7 +8,7 @@
     "dev": "nodemon index.js"
   },
   "engines": {
-    "node": "20.16.0"
+    "node": "26.x"
   },
   "keywords": [],
   "author": "",
